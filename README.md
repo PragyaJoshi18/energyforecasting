@@ -1,4 +1,4 @@
-# energyforecasting
+# Energyforecasting
 Power Usage Forecasting
 **Project Overview**
 
